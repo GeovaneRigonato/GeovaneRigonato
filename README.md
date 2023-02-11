@@ -13,6 +13,8 @@
   <img align="center"  alt="reactjs" height="30" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></img>
 <img align="center"  alt="nodejs" height="30" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></img>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" />
+  <img align="center" alt="photoshop" height="30" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/></img>
+  <img align="center" height="30" width=30 alt="vuejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs"/></img>
  </div><br>
 
 
