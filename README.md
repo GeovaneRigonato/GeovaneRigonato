@@ -7,6 +7,7 @@
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Geovane-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="30" height="30" />
   <img align="center" alt="Geovane-Ts" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Geovane-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Geovane-VSCODE" height="30" width=30 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
@@ -15,14 +16,13 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" />
   <img align="center" alt="photoshop" height="30" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/></img>
   <img align="center" height="30" width=30 alt="vuejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs"/></img>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" height="30" />
  </div><br>
-
 
 <div align="center">
   <a href="https://github.com/GeovaneRigonato">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GeovaneRigonato&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneRigonato&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
 
 </div>
