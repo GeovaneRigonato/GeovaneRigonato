@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/GeovaneRigonato">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GeovaneRigonato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GeovaneRigonato&count_private=true&show_icons=true&theme=tokyonight&icon_color=906fb9&title_color=6c9df0"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneRigonato&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
