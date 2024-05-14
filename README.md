@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=E5FF61FF&vCenter=true&width=800&lines=Hello,+i'm+Geovane+Rigonato!;Be+welcome+to+my+GitHub.+I+hope+you+enjoy!)](https://git.io/typing-svg)
 ##
-## Hello guys, my name is Geovane Rigonato, i'm studying Computer Science. :books:
+## Hello guys, my name is Geovane Rigonato, I'm a computer scientist. :books:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/geovanerigonato/)](https://www.linkedin.com/in/geovanerigonato/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:geovane.rigonato.gil@gmail.com)](mailto:geovane.rigonato.gil@gmail.com/)
